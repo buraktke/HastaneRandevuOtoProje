@@ -1,0 +1,96 @@
+D:\Burak TEKE\C# denemeleri\Orta C# Form Projeleri\HastaneOtomasyonProjesi\HastaneOtomasyonProjesi\bin\Debug\HastaneOtomasyonProjesi.exe.config
+D:\Burak TEKE\C# denemeleri\Orta C# Form Projeleri\HastaneOtomasyonProjesi\HastaneOtomasyonProjesi\bin\Debug\HastaneOtomasyonProjesi.exe
+D:\Burak TEKE\C# denemeleri\Orta C# Form Projeleri\HastaneOtomasyonProjesi\HastaneOtomasyonProjesi\bin\Debug\HastaneOtomasyonProjesi.pdb
+D:\Burak TEKE\C# denemeleri\Orta C# Form Projeleri\HastaneOtomasyonProjesi\HastaneOtomasyonProjesi\obj\Debug\HastaneOtomasyonProjesi.csproj.AssemblyReference.cache
+D:\Burak TEKE\C# denemeleri\Orta C# Form Projeleri\HastaneOtomasyonProjesi\HastaneOtomasyonProjesi\obj\Debug\HastaneOtomasyonProjesi.Properties.Resources.resources
+D:\Burak TEKE\C# denemeleri\Orta C# Form Projeleri\HastaneOtomasyonProjesi\HastaneOtomasyonProjesi\obj\Debug\HastaneOtomasyonProjesi.csproj.GenerateResource.cache
+D:\Burak TEKE\C# denemeleri\Orta C# Form Projeleri\HastaneOtomasyonProjesi\HastaneOtomasyonProjesi\obj\Debug\HastaneOtomasyonProjesi.csproj.CoreCompileInputs.cache
+D:\Burak TEKE\C# denemeleri\Orta C# Form Projeleri\HastaneOtomasyonProjesi\HastaneOtomasyonProjesi\obj\Debug\HastaneOtomasyonProjesi.exe
+D:\Burak TEKE\C# denemeleri\Orta C# Form Projeleri\HastaneOtomasyonProjesi\HastaneOtomasyonProjesi\obj\Debug\HastaneOtomasyonProjesi.pdb
+D:\Burak TEKE\C# denemeleri\Orta C# Form Projeleri\HastaneOtomasyonProjesi\HastaneOtomasyonProjesi\obj\Debug\HastaneOtomasyonProjesi.FrmGirisPaneli.resources
+D:\Burak TEKE\C# denemeleri\Orta C# Form Projeleri\HastaneOtomasyonProjesi\HastaneOtomasyonProjesi\obj\Debug\HastaneOtomasyonProjesi.FrmHastaGirisPaneli.resources
+D:\Burak TEKE\C# denemeleri\Orta C# Form Projeleri\HastaneOtomasyonProjesi\HastaneOtomasyonProjesi\obj\Debug\HastaneOtomasyonProjesi.FrmDoktorGirisPaneli.resources
+D:\Burak TEKE\C# denemeleri\Orta C# Form Projeleri\HastaneOtomasyonProjesi\HastaneOtomasyonProjesi\obj\Debug\HastaneOtomasyonProjesi.FrmSekreterGirisPaneli.resources
+D:\Burak TEKE\C# denemeleri\Orta C# Form Projeleri\HastaneOtomasyonProjesi\HastaneOtomasyonProjesi\obj\Debug\HastaneOtomasyonProjesi.FrmHastaDetayPaneli.resources
+D:\Burak TEKE\C# denemeleri\Orta C# Form Projeleri\Hastane Otomasyon Projesi\HastaneOtomasyonProjesi\HastaneOtomasyonProjesi\bin\Debug\HastaneOtomasyonProjesi.exe.config
+D:\Burak TEKE\C# denemeleri\Orta C# Form Projeleri\Hastane Otomasyon Projesi\HastaneOtomasyonProjesi\HastaneOtomasyonProjesi\bin\Debug\HastaneOtomasyonProjesi.exe
+D:\Burak TEKE\C# denemeleri\Orta C# Form Projeleri\Hastane Otomasyon Projesi\HastaneOtomasyonProjesi\HastaneOtomasyonProjesi\bin\Debug\HastaneOtomasyonProjesi.pdb
+D:\Burak TEKE\C# denemeleri\Orta C# Form Projeleri\Hastane Otomasyon Projesi\HastaneOtomasyonProjesi\HastaneOtomasyonProjesi\obj\Debug\HastaneOtomasyonProjesi.csproj.AssemblyReference.cache
+D:\Burak TEKE\C# denemeleri\Orta C# Form Projeleri\Hastane Otomasyon Projesi\HastaneOtomasyonProjesi\HastaneOtomasyonProjesi\obj\Debug\HastaneOtomasyonProjesi.FrmDoktorGirisPaneli.resources
+D:\Burak TEKE\C# denemeleri\Orta C# Form Projeleri\Hastane Otomasyon Projesi\HastaneOtomasyonProjesi\HastaneOtomasyonProjesi\obj\Debug\HastaneOtomasyonProjesi.FrmGirisPaneli.resources
+D:\Burak TEKE\C# denemeleri\Orta C# Form Projeleri\Hastane Otomasyon Projesi\HastaneOtomasyonProjesi\HastaneOtomasyonProjesi\obj\Debug\HastaneOtomasyonProjesi.FrmHastaDetayPaneli.resources
+D:\Burak TEKE\C# denemeleri\Orta C# Form Projeleri\Hastane Otomasyon Projesi\HastaneOtomasyonProjesi\HastaneOtomasyonProjesi\obj\Debug\HastaneOtomasyonProjesi.FrmHastaGirisPaneli.resources
+D:\Burak TEKE\C# denemeleri\Orta C# Form Projeleri\Hastane Otomasyon Projesi\HastaneOtomasyonProjesi\HastaneOtomasyonProjesi\obj\Debug\HastaneOtomasyonProjesi.FrmSekreterGirisPaneli.resources
+D:\Burak TEKE\C# denemeleri\Orta C# Form Projeleri\Hastane Otomasyon Projesi\HastaneOtomasyonProjesi\HastaneOtomasyonProjesi\obj\Debug\HastaneOtomasyonProjesi.Properties.Resources.resources
+D:\Burak TEKE\C# denemeleri\Orta C# Form Projeleri\Hastane Otomasyon Projesi\HastaneOtomasyonProjesi\HastaneOtomasyonProjesi\obj\Debug\HastaneOtomasyonProjesi.csproj.GenerateResource.cache
+D:\Burak TEKE\C# denemeleri\Orta C# Form Projeleri\Hastane Otomasyon Projesi\HastaneOtomasyonProjesi\HastaneOtomasyonProjesi\obj\Debug\HastaneOtomasyonProjesi.csproj.CoreCompileInputs.cache
+D:\Burak TEKE\C# denemeleri\Orta C# Form Projeleri\Hastane Otomasyon Projesi\HastaneOtomasyonProjesi\HastaneOtomasyonProjesi\obj\Debug\HastaneOtomasyonProjesi.exe
+D:\Burak TEKE\C# denemeleri\Orta C# Form Projeleri\Hastane Otomasyon Projesi\HastaneOtomasyonProjesi\HastaneOtomasyonProjesi\obj\Debug\HastaneOtomasyonProjesi.pdb
+D:\Burak TEKE\C# denemeleri\Orta C# Form Projeleri\Hastane Otomasyon Projesi\HastaneOtomasyonProjesi\HastaneOtomasyonProjesi\obj\Debug\HastaneOtomasyonProjesi.FrmHastaKayitOlPaneli.resources
+D:\Burak TEKE\C# denemeleri\Orta C# Form Projeleri\Hastane Otomasyon Projesi\HastaneOtomasyonProjesi\HastaneOtomasyonProjesi\obj\Debug\HastaneOtomasyonProjesi.FrmHastaBilgiDuzenlemePaneli.resources
+D:\Burak TEKE\C# denemeleri\Orta C# Form Projeleri\Hastane Otomasyon Projesi\HastaneOtomasyonProjesi\HastaneOtomasyonProjesi\obj\Debug\HastaneOtomasyonProjesi.FrmDoktorDetayPaneli.resources
+D:\Burak TEKE\C# denemeleri\Orta C# Form Projeleri\Hastane Otomasyon Projesi\HastaneOtomasyonProjesi\HastaneOtomasyonProjesi\obj\Debug\HastaneOtomasyonProjesi.FrmDoktorBilgiDuzenlemePaneli.resources
+D:\Burak TEKE\C# denemeleri\Orta C# Form Projeleri\Hastane Otomasyon Projesi\HastaneOtomasyonProjesi\HastaneOtomasyonProjesi\obj\Debug\HastaneOtomasyonProjesi.FrmSekreterDetayPaneli.resources
+D:\Burak TEKE\C# denemeleri\Orta C# Form Projeleri\Hastane Otomasyon Projesi\HastaneOtomasyonProjesi\HastaneOtomasyonProjesi\obj\Debug\HastaneOtomasyonProjesi.FrmSekreterRandevularPaneli.resources
+D:\Burak TEKE\C# denemeleri\Orta C# Form Projeleri\Hastane Otomasyon Projesi\HastaneOtomasyonProjesi\HastaneOtomasyonProjesi\obj\Debug\HastaneOtomasyonProjesi.FrmSekreterDuyurularPaneli.resources
+D:\Burak TEKE\C# denemeleri\Orta C# Form Projeleri\Hastane Otomasyon Projesi\HastaneOtomasyonProjesi\HastaneOtomasyonProjesi\obj\Debug\HastaneOtomasyonProjesi.FrmSekreterDoktorIslemleriPaneli.resources
+D:\Burak TEKE\C# denemeleri\Orta C# Form Projeleri\Hastane Otomasyon Projesi\HastaneOtomasyonProjesi\HastaneOtomasyonProjesi\obj\Debug\HastaneOtomasyonProjesi.FrmSekreterBransIslemleriPaneli.resources
+D:\Burak TEKE\C# denemeleri\Orta C# Form Projeleri\Hastane Otomasyon Projesi\HastaneOtomasyonProjesi\HastaneOtomasyonProjesi\obj\Debug\HastaneOtomasyonProjesi.FrmDoktorTeshisEklemePaneli.resources
+D:\Burak TEKE\C# denemeleri\Orta C# Form Projeleri\Hastane Otomasyon Projesi\HastaneOtomasyonProjesi\HastaneOtomasyonProjesi\obj\Debug\HastaneOtomasyonProjesi.FrmDoktorTahlilEklemePaneli.resources
+D:\Burak TEKE\C# denemeleri\Orta C# Form Projeleri\Hastane Otomasyon Projesi\HastaneOtomasyonProjesi\HastaneOtomasyonProjesi\obj\Debug\HastaneOtomasyonProjesi.FrmDoktorHastaRaporPaneli.resources
+C:\Users\user\Desktop\SistemAnaliziFinalProje\HastaneProje(LocalDb)\Hastane Otomasyon Projesi\HastaneOtomasyonProjesi\HastaneOtomasyonProjesi\bin\Debug\AppData\HastaneRandevuOtoProje.mdf
+C:\Users\user\Desktop\SistemAnaliziFinalProje\HastaneProje(LocalDb)\Hastane Otomasyon Projesi\HastaneOtomasyonProjesi\HastaneOtomasyonProjesi\bin\Debug\AppData\HastaneRandevuOtoProje_log.ldf
+C:\Users\user\Desktop\SistemAnaliziFinalProje\HastaneProje(LocalDb)\Hastane Otomasyon Projesi\HastaneOtomasyonProjesi\HastaneOtomasyonProjesi\bin\Debug\HastaneOtomasyonProjesi.exe.config
+C:\Users\user\Desktop\SistemAnaliziFinalProje\HastaneProje(LocalDb)\Hastane Otomasyon Projesi\HastaneOtomasyonProjesi\HastaneOtomasyonProjesi\bin\Debug\HastaneOtomasyonProjesi.exe
+C:\Users\user\Desktop\SistemAnaliziFinalProje\HastaneProje(LocalDb)\Hastane Otomasyon Projesi\HastaneOtomasyonProjesi\HastaneOtomasyonProjesi\bin\Debug\HastaneOtomasyonProjesi.pdb
+C:\Users\user\Desktop\SistemAnaliziFinalProje\HastaneProje(LocalDb)\Hastane Otomasyon Projesi\HastaneOtomasyonProjesi\HastaneOtomasyonProjesi\obj\Debug\HastaneOtomasyonProjesi.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\SistemAnaliziFinalProje\HastaneProje(LocalDb)\Hastane Otomasyon Projesi\HastaneOtomasyonProjesi\HastaneOtomasyonProjesi\obj\Debug\HastaneOtomasyonProjesi.FrmDoktorBilgiDuzenlemePaneli.resources
+C:\Users\user\Desktop\SistemAnaliziFinalProje\HastaneProje(LocalDb)\Hastane Otomasyon Projesi\HastaneOtomasyonProjesi\HastaneOtomasyonProjesi\obj\Debug\HastaneOtomasyonProjesi.FrmDoktorDetayPaneli.resources
+C:\Users\user\Desktop\SistemAnaliziFinalProje\HastaneProje(LocalDb)\Hastane Otomasyon Projesi\HastaneOtomasyonProjesi\HastaneOtomasyonProjesi\obj\Debug\HastaneOtomasyonProjesi.FrmDoktorGirisPaneli.resources
+C:\Users\user\Desktop\SistemAnaliziFinalProje\HastaneProje(LocalDb)\Hastane Otomasyon Projesi\HastaneOtomasyonProjesi\HastaneOtomasyonProjesi\obj\Debug\HastaneOtomasyonProjesi.FrmDoktorHastaRaporPaneli.resources
+C:\Users\user\Desktop\SistemAnaliziFinalProje\HastaneProje(LocalDb)\Hastane Otomasyon Projesi\HastaneOtomasyonProjesi\HastaneOtomasyonProjesi\obj\Debug\HastaneOtomasyonProjesi.FrmDoktorTahlilEklemePaneli.resources
+C:\Users\user\Desktop\SistemAnaliziFinalProje\HastaneProje(LocalDb)\Hastane Otomasyon Projesi\HastaneOtomasyonProjesi\HastaneOtomasyonProjesi\obj\Debug\HastaneOtomasyonProjesi.FrmDoktorTeshisEklemePaneli.resources
+C:\Users\user\Desktop\SistemAnaliziFinalProje\HastaneProje(LocalDb)\Hastane Otomasyon Projesi\HastaneOtomasyonProjesi\HastaneOtomasyonProjesi\obj\Debug\HastaneOtomasyonProjesi.FrmGirisPaneli.resources
+C:\Users\user\Desktop\SistemAnaliziFinalProje\HastaneProje(LocalDb)\Hastane Otomasyon Projesi\HastaneOtomasyonProjesi\HastaneOtomasyonProjesi\obj\Debug\HastaneOtomasyonProjesi.FrmHastaBilgiDuzenlemePaneli.resources
+C:\Users\user\Desktop\SistemAnaliziFinalProje\HastaneProje(LocalDb)\Hastane Otomasyon Projesi\HastaneOtomasyonProjesi\HastaneOtomasyonProjesi\obj\Debug\HastaneOtomasyonProjesi.FrmHastaDetayPaneli.resources
+C:\Users\user\Desktop\SistemAnaliziFinalProje\HastaneProje(LocalDb)\Hastane Otomasyon Projesi\HastaneOtomasyonProjesi\HastaneOtomasyonProjesi\obj\Debug\HastaneOtomasyonProjesi.FrmHastaGirisPaneli.resources
+C:\Users\user\Desktop\SistemAnaliziFinalProje\HastaneProje(LocalDb)\Hastane Otomasyon Projesi\HastaneOtomasyonProjesi\HastaneOtomasyonProjesi\obj\Debug\HastaneOtomasyonProjesi.FrmHastaKayitOlPaneli.resources
+C:\Users\user\Desktop\SistemAnaliziFinalProje\HastaneProje(LocalDb)\Hastane Otomasyon Projesi\HastaneOtomasyonProjesi\HastaneOtomasyonProjesi\obj\Debug\HastaneOtomasyonProjesi.FrmSekreterBransIslemleriPaneli.resources
+C:\Users\user\Desktop\SistemAnaliziFinalProje\HastaneProje(LocalDb)\Hastane Otomasyon Projesi\HastaneOtomasyonProjesi\HastaneOtomasyonProjesi\obj\Debug\HastaneOtomasyonProjesi.FrmSekreterDetayPaneli.resources
+C:\Users\user\Desktop\SistemAnaliziFinalProje\HastaneProje(LocalDb)\Hastane Otomasyon Projesi\HastaneOtomasyonProjesi\HastaneOtomasyonProjesi\obj\Debug\HastaneOtomasyonProjesi.FrmSekreterDoktorIslemleriPaneli.resources
+C:\Users\user\Desktop\SistemAnaliziFinalProje\HastaneProje(LocalDb)\Hastane Otomasyon Projesi\HastaneOtomasyonProjesi\HastaneOtomasyonProjesi\obj\Debug\HastaneOtomasyonProjesi.FrmSekreterDuyurularPaneli.resources
+C:\Users\user\Desktop\SistemAnaliziFinalProje\HastaneProje(LocalDb)\Hastane Otomasyon Projesi\HastaneOtomasyonProjesi\HastaneOtomasyonProjesi\obj\Debug\HastaneOtomasyonProjesi.FrmSekreterGirisPaneli.resources
+C:\Users\user\Desktop\SistemAnaliziFinalProje\HastaneProje(LocalDb)\Hastane Otomasyon Projesi\HastaneOtomasyonProjesi\HastaneOtomasyonProjesi\obj\Debug\HastaneOtomasyonProjesi.FrmSekreterRandevularPaneli.resources
+C:\Users\user\Desktop\SistemAnaliziFinalProje\HastaneProje(LocalDb)\Hastane Otomasyon Projesi\HastaneOtomasyonProjesi\HastaneOtomasyonProjesi\obj\Debug\HastaneOtomasyonProjesi.Properties.Resources.resources
+C:\Users\user\Desktop\SistemAnaliziFinalProje\HastaneProje(LocalDb)\Hastane Otomasyon Projesi\HastaneOtomasyonProjesi\HastaneOtomasyonProjesi\obj\Debug\HastaneOtomasyonProjesi.csproj.GenerateResource.cache
+C:\Users\user\Desktop\SistemAnaliziFinalProje\HastaneProje(LocalDb)\Hastane Otomasyon Projesi\HastaneOtomasyonProjesi\HastaneOtomasyonProjesi\obj\Debug\HastaneOtomasyonProjesi.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\SistemAnaliziFinalProje\HastaneProje(LocalDb)\Hastane Otomasyon Projesi\HastaneOtomasyonProjesi\HastaneOtomasyonProjesi\obj\Debug\HastaneOtomasyonProjesi.exe
+C:\Users\user\Desktop\SistemAnaliziFinalProje\HastaneProje(LocalDb)\Hastane Otomasyon Projesi\HastaneOtomasyonProjesi\HastaneOtomasyonProjesi\obj\Debug\HastaneOtomasyonProjesi.pdb
+C:\Users\user\Desktop\HastaneProje(LocalDb)\HastaneOtomasyonProjesi\HastaneOtomasyonProjesi\bin\Debug\AppData\HastaneRandevuOtoProje.mdf
+C:\Users\user\Desktop\HastaneProje(LocalDb)\HastaneOtomasyonProjesi\HastaneOtomasyonProjesi\bin\Debug\AppData\HastaneRandevuOtoProje_log.ldf
+C:\Users\user\Desktop\HastaneProje(LocalDb)\HastaneOtomasyonProjesi\HastaneOtomasyonProjesi\bin\Debug\HastaneOtomasyonProjesi.exe.config
+C:\Users\user\Desktop\HastaneProje(LocalDb)\HastaneOtomasyonProjesi\HastaneOtomasyonProjesi\bin\Debug\HastaneOtomasyonProjesi.exe
+C:\Users\user\Desktop\HastaneProje(LocalDb)\HastaneOtomasyonProjesi\HastaneOtomasyonProjesi\bin\Debug\HastaneOtomasyonProjesi.pdb
+C:\Users\user\Desktop\HastaneProje(LocalDb)\HastaneOtomasyonProjesi\HastaneOtomasyonProjesi\obj\Debug\HastaneOtomasyonProjesi.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\HastaneProje(LocalDb)\HastaneOtomasyonProjesi\HastaneOtomasyonProjesi\obj\Debug\HastaneOtomasyonProjesi.FrmDoktorBilgiDuzenlemePaneli.resources
+C:\Users\user\Desktop\HastaneProje(LocalDb)\HastaneOtomasyonProjesi\HastaneOtomasyonProjesi\obj\Debug\HastaneOtomasyonProjesi.FrmDoktorDetayPaneli.resources
+C:\Users\user\Desktop\HastaneProje(LocalDb)\HastaneOtomasyonProjesi\HastaneOtomasyonProjesi\obj\Debug\HastaneOtomasyonProjesi.FrmDoktorGirisPaneli.resources
+C:\Users\user\Desktop\HastaneProje(LocalDb)\HastaneOtomasyonProjesi\HastaneOtomasyonProjesi\obj\Debug\HastaneOtomasyonProjesi.FrmDoktorHastaRaporPaneli.resources
+C:\Users\user\Desktop\HastaneProje(LocalDb)\HastaneOtomasyonProjesi\HastaneOtomasyonProjesi\obj\Debug\HastaneOtomasyonProjesi.FrmDoktorTahlilEklemePaneli.resources
+C:\Users\user\Desktop\HastaneProje(LocalDb)\HastaneOtomasyonProjesi\HastaneOtomasyonProjesi\obj\Debug\HastaneOtomasyonProjesi.FrmDoktorTeshisEklemePaneli.resources
+C:\Users\user\Desktop\HastaneProje(LocalDb)\HastaneOtomasyonProjesi\HastaneOtomasyonProjesi\obj\Debug\HastaneOtomasyonProjesi.FrmGirisPaneli.resources
+C:\Users\user\Desktop\HastaneProje(LocalDb)\HastaneOtomasyonProjesi\HastaneOtomasyonProjesi\obj\Debug\HastaneOtomasyonProjesi.FrmHastaBilgiDuzenlemePaneli.resources
+C:\Users\user\Desktop\HastaneProje(LocalDb)\HastaneOtomasyonProjesi\HastaneOtomasyonProjesi\obj\Debug\HastaneOtomasyonProjesi.FrmHastaDetayPaneli.resources
+C:\Users\user\Desktop\HastaneProje(LocalDb)\HastaneOtomasyonProjesi\HastaneOtomasyonProjesi\obj\Debug\HastaneOtomasyonProjesi.FrmHastaGirisPaneli.resources
+C:\Users\user\Desktop\HastaneProje(LocalDb)\HastaneOtomasyonProjesi\HastaneOtomasyonProjesi\obj\Debug\HastaneOtomasyonProjesi.FrmHastaKayitOlPaneli.resources
+C:\Users\user\Desktop\HastaneProje(LocalDb)\HastaneOtomasyonProjesi\HastaneOtomasyonProjesi\obj\Debug\HastaneOtomasyonProjesi.FrmSekreterBransIslemleriPaneli.resources
+C:\Users\user\Desktop\HastaneProje(LocalDb)\HastaneOtomasyonProjesi\HastaneOtomasyonProjesi\obj\Debug\HastaneOtomasyonProjesi.FrmSekreterDetayPaneli.resources
+C:\Users\user\Desktop\HastaneProje(LocalDb)\HastaneOtomasyonProjesi\HastaneOtomasyonProjesi\obj\Debug\HastaneOtomasyonProjesi.FrmSekreterDoktorIslemleriPaneli.resources
+C:\Users\user\Desktop\HastaneProje(LocalDb)\HastaneOtomasyonProjesi\HastaneOtomasyonProjesi\obj\Debug\HastaneOtomasyonProjesi.FrmSekreterDuyurularPaneli.resources
+C:\Users\user\Desktop\HastaneProje(LocalDb)\HastaneOtomasyonProjesi\HastaneOtomasyonProjesi\obj\Debug\HastaneOtomasyonProjesi.FrmSekreterGirisPaneli.resources
+C:\Users\user\Desktop\HastaneProje(LocalDb)\HastaneOtomasyonProjesi\HastaneOtomasyonProjesi\obj\Debug\HastaneOtomasyonProjesi.FrmSekreterRandevularPaneli.resources
+C:\Users\user\Desktop\HastaneProje(LocalDb)\HastaneOtomasyonProjesi\HastaneOtomasyonProjesi\obj\Debug\HastaneOtomasyonProjesi.Properties.Resources.resources
+C:\Users\user\Desktop\HastaneProje(LocalDb)\HastaneOtomasyonProjesi\HastaneOtomasyonProjesi\obj\Debug\HastaneOtomasyonProjesi.csproj.GenerateResource.cache
+C:\Users\user\Desktop\HastaneProje(LocalDb)\HastaneOtomasyonProjesi\HastaneOtomasyonProjesi\obj\Debug\HastaneOtomasyonProjesi.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\HastaneProje(LocalDb)\HastaneOtomasyonProjesi\HastaneOtomasyonProjesi\obj\Debug\HastaneOtomasyonProjesi.exe
+C:\Users\user\Desktop\HastaneProje(LocalDb)\HastaneOtomasyonProjesi\HastaneOtomasyonProjesi\obj\Debug\HastaneOtomasyonProjesi.pdb
